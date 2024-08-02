@@ -6,6 +6,7 @@
 [/adcdownload.apple.com.akadns.net/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/adcdownload.apple.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/amp-api.media.apple.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
+[/amp-api-updates.apps.apple.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/api-p-ap-c.smoot.apple.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/api-p-ap-d.smoot.apple.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/api-p-ap-e.smoot.apple.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
@@ -15,6 +16,7 @@
 [/appleid.cdn-apple.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/apps.apple.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/apps.mzstatic.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
+[/bag-cdn.itunes-apple.com.akadns.net/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/cdn-cn1.apple-mapkit.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/cdn-cn2.apple-mapkit.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/cdn-cn3.apple-mapkit.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
@@ -61,6 +63,7 @@
 [/gsp5-cn.ls.apple.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/gsp85-cn-ssl.ls.apple.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/gspe19-2-cn-ssl.ls.apple.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
+[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/gspe19-cn-ssl.ls.apple.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/gspe19-cn.ls-apple.com.akadns.net/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/gspe19-cn.ls.apple.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
@@ -99,6 +102,7 @@
 [/is4.mzstatic.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/is5-ssl.mzstatic.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/is5.mzstatic.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/itunes-apple.com.akadns.net/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/itunes.apple.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
 [/itunesconnect.apple.com/]quic://223.5.5.5 quic://223.6.6.6 h3://223.5.5.5/dns-query h3://223.6.6.6/dns-query tls://1.12.12.12 tls://120.53.53.53
